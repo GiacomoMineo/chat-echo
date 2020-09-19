@@ -1,0 +1,10 @@
+.message {
+  padding: 4px;
+}
+
+.author {
+  font-size: 10px;
+}
+.self {
+  color: gray;
+}
